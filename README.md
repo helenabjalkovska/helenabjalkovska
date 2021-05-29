@@ -1,8 +1,8 @@
 ### Heyo 👋
 
-🔭 I’m currently working on: fun new projects to better my knownladge in the art of programming.
+🔭 I’m currently working on fun new projects to better my knownladge in the art of programming.
 
-🌱 I’m currently learning: .NET/C#, plus many more new things each day.
+🌱 I’m currently learning .NET/C#, plus many more new things each day.
 
 📫 How to reach me: helena.bjalkovska@gmail.com | +371 26145257
 <!--
