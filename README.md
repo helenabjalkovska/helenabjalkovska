@@ -18,13 +18,13 @@ I’m currently working on fun new projects to hone my skills.
 
 Additional skills:
 
-*Relational Databases & SQL  
-*HTTP & Web API Basics  
-*Unit Testing  
-*Test Driven Development  
-*Clean Code, SOLID  
-*Design Patterns  
-*HTML & CSS, VueJS, TypeScript & NodeJS basics  
+* Relational Databases & SQL  
+* HTTP & Web API Basics  
+* Unit Testing  
+* Test Driven Development  
+* Clean Code, SOLID  
+* Design Patterns  
+* HTML & CSS, VueJS, TypeScript & NodeJS basics  
 <!--
 **helenabjalkovska/helenabjalkovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
