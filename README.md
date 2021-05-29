@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo 👋
 
 🔭 I’m currently working on: fun new projects to better my knownladge in the art of programming.
 
