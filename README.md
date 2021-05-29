@@ -1,6 +1,6 @@
-### Heyo 👋
+### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Helēna Bjalkovska!
 
-I'm Helēna, an aspiring .NET/C# software developer.
+I'm an aspiring .NET/C# software developer.
 
 Always learning new things and skills to progress my knownladge.
 
@@ -8,11 +8,13 @@ I’m currently working on fun new projects to hone my skills.
 
 📫 How to reach me: helena.bjalkovska@gmail.com | https://www.linkedin.com/in/helena-bjalkovska/
 
-Skills:
 
-    Git
-    C#
-    .NET
+🧰 Toolbox
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg" width="30px"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/dot-net/dot-net-original-wordmark.svg" width="30px"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" width="30px"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg" width="30px"> 
+
+Additional skills:
+
     Relational Databases & SQL
     HTTP & Web API Basics
     Unit Testing
