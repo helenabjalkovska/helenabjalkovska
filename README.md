@@ -18,7 +18,7 @@ I’m currently working on fun new projects to hone my skills.
 
 My latest completed project:
 
-- Scooter rental service (C#/.NET, TDD, Unit testing, S.O.L.I.D, Error handling): https://github.com/helenabjalkovska/scooter-rental-service
+- Scooter rental service (C#/.NET, Unit testing, TDD, S.O.L.I.D, Error handling): https://github.com/helenabjalkovska/scooter-rental-service
 
 ---
 
