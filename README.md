@@ -16,6 +16,12 @@ I’m currently working on fun new projects to hone my skills.
 
 ---
 
+My latest completed project:
+
+- Scooter rental service (C#/.NET, TDD, Unit testing, S.O.L.I.D, Error handling): https://github.com/helenabjalkovska/scooter-rental-service
+
+---
+
 Additional skills:
 
 * Relational Databases & SQL  
